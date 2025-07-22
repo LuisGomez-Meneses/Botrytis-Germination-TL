@@ -10,7 +10,7 @@ Este repositorio contiene todo el pipeline de detección y análisis de tasas de
 <summary><strong>Haz clic para expandir</strong></summary>
 
 ```plaintext
-📦Proyect/
+📦Project/
 ├── 📁 Train/
 │   └── YOLOv11.ipynb         
 ├── 📁 Test/
