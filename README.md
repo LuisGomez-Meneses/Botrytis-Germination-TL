@@ -1,6 +1,9 @@
 # Transfer-Learning-for-Predicting-Germination-Rates-in-Botrytis-cinerea-Grey-Mold-Disease-
 
-This repository provides code and pretrained models for predicting germination rates of *Botrytis cinerea* using deep learning techniques, including transfer learning and object detection with YOLOv11.
+<details>
+<summary><strong>📁 Repository Structure</strong></summary>
+
+```plaintext
 📦TuProyecto/
 ├── 📁 Train/              # Scripts y configuraciones de entrenamiento
 ├── 📁 Test/               # Scripts de validación o test
@@ -13,7 +16,6 @@ This repository provides code and pretrained models for predicting germination r
 ├── requirements.txt       # Este archivo
 ├── README.md              # Instrucciones de uso
 └── .gitignore             # Ignorar archivos grandes, etc.
-
 
 
 ---
