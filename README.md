@@ -10,18 +10,16 @@ Este repositorio contiene todo el pipeline de detección y análisis de tasas de
 <summary><strong>Haz clic para expandir</strong></summary>
 
 ```plaintext
-📦TuProyecto/
-├── 📁 Train/              # Scripts y configuraciones de entrenamiento
-├── 📁 Test/               # Scripts de validación o test
-├── 📁 Germinación/        # Notebooks de inferencia y germinación
-│   ├── Inferencia.ipynb   # Pipeline de inferencia
-│   └── Detection.ipynb    # Visualización y detección
-├── 📁 Models/             # Modelos entrenados
-│   └── YOLOv11.pt
-├── YOLO.ipynb             # Notebook principal o general de prueba
-├── requirements.txt       # Este archivo
-├── README.md              # Instrucciones de uso
-└── .gitignore             # Ignorar archivos grandes, etc.
+📦Proyect/
+├── 📁 Train/
+│   └── YOLOv11.ipynb            # Notebook de entrenamiento
+├── 📁 Test/
+│   ├── 📁 Germinación/          # Notebooks de inferencia y detección
+│   │   ├── Inferencia.ipynb
+│   │   └── Detection.ipynb
+│   └── 📁 Models/               # Modelo YOLOv11.pt y otros archivos de pesos
+│       └── YOLOv11.pt
+            # Ignorar archivos grandes, etc.
 ```
 
 </details>
