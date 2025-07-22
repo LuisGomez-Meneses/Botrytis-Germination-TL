@@ -12,14 +12,13 @@ Este repositorio contiene todo el pipeline de detección y análisis de tasas de
 ```plaintext
 📦Proyect/
 ├── 📁 Train/
-│   └── YOLOv11.ipynb            # Notebook de entrenamiento
+│   └── YOLOv11.ipynb         
 ├── 📁 Test/
-│   ├── 📁 Germinación/          # Notebooks de inferencia y detección
+│   ├── 📁 Germinación/         
 │   │   ├── Inferencia.ipynb
 │   │   └── Detection.ipynb
-│   └── 📁 Models/               # Modelo YOLOv11.pt y otros archivos de pesos
+│   └── 📁 Models/              
 │       └── YOLOv11.pt
-            # Ignorar archivos grandes, etc.
 ```
 
 </details>
