@@ -1,7 +1,13 @@
-# Transfer-Learning-for-Predicting-Germination-Rates-in-Botrytis-cinerea-Grey-Mold-Disease-
+# Transfer Learning for Predicting Germination Rates in *Botrytis cinerea* (Grey Mold Disease)
+
+Este repositorio contiene todo el pipeline de detección y análisis de tasas de germinación de conidios de *Botrytis cinerea* usando transferencia de aprendizaje con la arquitectura YOLOv11.
+
+---
+
+## 📁 Estructura del Repositorio
 
 <details>
-<summary><strong>📁 Repository Structure</strong></summary>
+<summary><strong>Haz clic para expandir</strong></summary>
 
 ```plaintext
 📦TuProyecto/
@@ -16,7 +22,9 @@
 ├── requirements.txt       # Este archivo
 ├── README.md              # Instrucciones de uso
 └── .gitignore             # Ignorar archivos grandes, etc.
+```
 
+</details>
 
 ---
 
@@ -50,6 +58,3 @@ Example of a detection result:
 - OpenCV
 - Jupyter Notebook
 - Other dependencies listed in `requirements.txt` (if available)
-
-
-
